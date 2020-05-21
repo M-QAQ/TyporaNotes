@@ -4,7 +4,7 @@
 
 镜像地址：阿里云开源镜像站 http://mirrors.aliyun.com/ubuntu-releases/16.04/
 
-![img](E:\liuruixuan77@163.com\92efd645716741428cb73b2c04c659ff\clipboard.png)
+![](git安装.assets/clipboard.png)
 
 因为我们是用Windows系统上的浏览器访问的，Git官网自动之别到了我使用的操作系统，所以右侧直接显示下载使用Windows系统的最新版本（如果识别错误，可以在中间选择系统），点击即可下载。我下载的是 2.24.0 for Windows，文件名称是“Git-2.24.0.2-64-bit.exe”。下载到电脑上之后，鼠标双击这个文件即可进入安装过程。
 
@@ -14,19 +14,19 @@
 
 **01、使用许可声明**
 
-![img](E:\liuruixuan77@163.com\15be99e8360d4105b377e0fcd524b21f\clipboard.png)
+![img](git安装.assets/clipboard-1590041700282.png)
 
  点击“Next”进入下图页面：
 
 **02、选择安装路径**
 
-![img](E:\liuruixuan77@163.com\0bdeee3617104db99b81a0cc26f0bc5f\clipboard.png)
+![img](git安装.assets/clipboard-1590041713770.png)
 
   在输入框内输入想要安装到的本机路径，也就是实际文件夹位置，或点击“Browse...”选择已经存在的文件夹，然后点击“Next”按钮继续，进入下图界面：
 
 **03、选择安装组件**
 
-![img](E:\liuruixuan77@163.com\7c9e521dfc44424aaaa13f1256d25d33\clipboard.png)
+![img](git安装.assets/clipboard-1590041717390.png)
 
  上图红框内的选项是默认勾选的，建议不要动。绿色框1是决定是否在桌面创建快捷方式的。绿色框2是决定在所有控制台窗口中使用TrueType字体和是否每天检查Git是否有Windows更新的。这些根据自己需要选择。
 
@@ -34,19 +34,19 @@
 
 **04、选择开始菜单页**
 
-![img](E:\liuruixuan77@163.com\f9f543f0e4794ede9f5e7d42df31366c\clipboard.png)
+![img](git安装.assets/clipboard-1590041720397.png)
 
  这个界面是创建开始菜单中的名称，不需要修改，直接点“Next”按钮继续到下图的界面：
 
 **05、选择Git文件默认的编辑器**
 
-![img](E:\liuruixuan77@163.com\cbd543ad61244d9291eb602ff7b62e89\clipboard.png)
+![img](git安装.assets/clipboard-1590041722508.png)
 
   这个页面是在选择Git文件默认的编辑器，很少用到，所以默认Vim即可，直接点“Next”按钮继续到下图的界面：
 
 **06、调整您的PATH环境**
 
-![img](E:\liuruixuan77@163.com\ee68ef80e5f34dea8c0f5f54cfb6af2a\clipboard.png)
+![img](git安装.assets/clipboard-1590041727476.png)
 
   这个界面是调整您的PATH环境。
 
@@ -62,7 +62,7 @@
 
 **07、选择HTTPS后端传输**
 
-![img](E:\liuruixuan77@163.com\a7ac1e75cbc94db09f57367f7e2c0ec7\clipboard.png)
+![img](git安装.assets/clipboard-1590041729647.png)
 
   这个界面是选择HTTPS后端传输。
 
@@ -74,7 +74,7 @@
 
 **08、配置行尾符号转换**
 
-![img](E:\liuruixuan77@163.com\f9b7f6e56d1f415dab6c9b0fb241ac61\clipboard.png)
+![img](git安装.assets/clipboard-1590041732808.png)
 
   这个界面是配置行尾符号转换。
 
@@ -88,7 +88,7 @@
 
 **09、配置终端模拟器以与Git Bash一起使用**
 
-![img](E:\liuruixuan77@163.com\e67b8f43ea8c44feaa0246bba29e5e5d\clipboard.png)
+![img](git安装.assets/clipboard-1590041735405.png)
 
   这个界面是配置终端模拟器以与Git Bash一起使用。
 
@@ -100,7 +100,7 @@
 
 **10、配置配置额外的选项**
 
-![img](E:\liuruixuan77@163.com\c32680268bba4657b14f79bd871af20b\clipboard.png)
+![img](git安装.assets/clipboard-1590041737197.png)
 
   这个界面是配置配置额外的选项。
 
@@ -114,7 +114,7 @@
 
 **11、配置实验选项**
 
-![img](E:\liuruixuan77@163.com\2d0efd6afac140f091023415ff818e28\clipboard.png)
+![img](git安装.assets/clipboard-1590041742237.png)
 
   这个界面是配置实验选项。
 
@@ -124,13 +124,13 @@
 
 **12、安装进度指示**
 
-![img](E:\liuruixuan77@163.com\e5ee8d22c54c4f3898ffcf50d2980d85\clipboard.png)
+![img](git安装.assets/clipboard-1590041744356.png)
 
   安装进度结束之后，会出现下图的完成Git安装向导界面：
 
 **13、安装完成**
 
-![img](E:\liuruixuan77@163.com\2f98f3475f3040aa9e3679bb164b1cb2\clipboard.png)
+![img](git安装.assets/clipboard-1590041746685.png)
 
   在这个界面，可以勾选是否启动启动Git Bash和是否查看发行说明，然后点“Finish”按钮退出安装界面。
 
@@ -140,17 +140,17 @@
 
   Git Bash，是Git配套的一个控制台，点击打开如下图：
 
-![img](E:\liuruixuan77@163.com\15b313ece7ea4c0fb98bfe125a332e91\clipboard.png)
+![img](git安装.assets/clipboard-1590041749632.png)
 
   Git CMD(Deprecated)，是通过CMD使用Git（不推荐使用），点击打开如下图：
 
-![img](E:\liuruixuan77@163.com\3ac387fda9164942b3344ee272a76386\clipboard.png)
+![img](git安装.assets/clipboard-1590041751532.png)
 
   Git GUI，是Git的可视化操作工具，点击打开如下图：
 
-![img](E:\liuruixuan77@163.com\ef24723339f241e7b8961ed685c60a75\clipboard.png)
+![img](git安装.assets/clipboard-1590041753835.png)
 
-![Git-2.26.2-64-bit.exe](E:/liuruixuan77@163.com/1ad91d73ad8f43b1a467c3cac65c8eff/attachment.png)
+
 
 
 
