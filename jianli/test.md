@@ -75,8 +75,8 @@
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★ Java
-- ★★★ MySQL、Oracle、MongoDB
-- ★★★ Redis
+- ★★★ MySQL、Oracle、MongoDB、Redis
+- ★★☆ mybatis、Hibernate、SpringMVC、Struts2
 - ★★☆ Spring、SpringBoot、SpringCloud、Dubbo
 - ★☆☆ RabbitMQ
 - ★★☆ JavaScript
